@@ -3,4 +3,4 @@ def meal_choice(side, veg, protein='tofu')
  puts "A plate of #{protein} with #{side} and #{veg}""
 end
 
-meal_choice('carrots', 'string beans')
+p meal_choice('carrots', 'string beans')
